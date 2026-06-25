@@ -1,5 +1,4 @@
 # Welcome to SpockTech
 
-I don't know what to write here...
-
-SOI SOI SOI
+I make Windows 11 experiments. I also created a few OSes which are still in\
+development.
