@@ -6,18 +6,7 @@ the README.md in the repository says so.
 ## 🚧 Projects (under construction):
 - kivyOS 1.0 - Very realistic OS simulator
 - PyTextOS (on real hardware)
-- The A++ programming language\
-  A++ Syntax:\
-  ```python
-  # Simple A++ to print "Test"
-  util IO.allFuncs
-  
-  def main() {
-    IO.sysPrint(text="Test")
-    return NONE
-  }
-  ```
-
+- The A++ programming language
 
 These projects will be available to the public soon.
 
