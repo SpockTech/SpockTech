@@ -4,9 +4,8 @@ I make Windows 11 experiments. I also created a few OSes which are stil in devel
 the README.md in the repository says so.
 
 ## 🚧 Projects (under construction):
-- kivyOS 1.0 - Very realistic OS simulator
-- PyTextOS (on real hardware)
-- The A++ programming language
+- Web Subsystem for Chrome
+- Linux style terminal
 
 These projects will be available to the public soon.
 
